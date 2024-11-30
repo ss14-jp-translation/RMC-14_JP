@@ -1,2 +1,2 @@
-action-popup-combat-disabled = Combat mode disabled
-action-popup-combat-enabled = Combat mode enabled
+action-popup-combat-disabled = 戦闘モードは無効。
+action-popup-combat-enabled = 戦闘モード有効

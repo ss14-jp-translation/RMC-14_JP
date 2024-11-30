@@ -1,5 +1,5 @@
-rat-king-domain-popup = A cloud of ammonia is released into the air!
+rat-king-domain-popup = アンモニアの雲は空気に解放されます！
 
-rat-king-too-hungry = You are too hungry to use this ability!
+rat-king-too-hungry = お腹がすいた！
 
-rat-king-rummage-text = Rummage
+rat-king-rummage-text = 探す

@@ -2,47 +2,47 @@
 
 ## General
 
-shell-command-success = Command successful
-shell-invalid-command = Invalid command.
-shell-invalid-command-specific = Invalid {$commandName} command.
-shell-cannot-run-command-from-server = You cannot run this command from the server.
-shell-only-players-can-run-this-command = Only players can run this command.
-shell-must-be-attached-to-entity = You must be attached to an entity to run this command.
+shell-command-success = コマンド成功。
+shell-invalid-command = 無効なコマンドです。
+shell-invalid-command-specific = 無効な{$commandName}コマンドです。
+shell-cannot-run-command-from-server = サーバーからこのコマンドを実行できません。
+shell-only-player-can-run-this-command = プレイヤーだけがこのコマンドを実行できます。
+shell-must-be-attached-to-entity = このコマンドを実行するにはエンティティにアタッチされている必要があります。
 
 ## Arguments
 
-shell-need-exactly-one-argument = Need exactly one argument.
-shell-wrong-arguments-number-need-specific = Need {$properAmount} arguments, there were {$currentAmount}.
-shell-argument-must-be-number = Argument must be a number.
-shell-argument-must-be-boolean = Argument must be a boolean.
-shell-wrong-arguments-number = Wrong number of arguments.
-shell-need-between-arguments = Need {$lower} to {$upper} arguments!
-shell-need-minimum-arguments = Need at least {$minimum} arguments!
-shell-need-minimum-one-argument = Need at least one argument!
+shell-need-exactly-one-argument = 引数が1つだけ必要です。
+shell-wrong-arguments-number-need-specific = {$properAmount}個の引数が必要です。
+shell-argument-must-be-number = 引数は数値でなければなりません。
+shell-argument-must-be-boolean = 引数はブール値でなければなりません。
+shell-wrong-arguments-number = 引数の数が間違っています。
+shell-need-between-arguments = {$lower}〜{$upper}までの引数が必要です！
+shell-need-minimum-arguments = 少なくとも {$minimum} 引数が必要です！
+shell-need-minimum-one-argument = 少なくとも1つの引数が必要です！
 
 shell-argument-uid = EntityUid
 
 ## Guards
 
-shell-entity-is-not-mob = Target entity is not a mob!
-shell-invalid-entity-id = Invalid entity ID.
-shell-invalid-grid-id = Invalid grid ID.
-shell-invalid-map-id = Invalid map ID.
-shell-invalid-entity-uid = {$uid} is not a valid entity uid
-shell-invalid-bool = Invalid boolean.
-shell-entity-uid-must-be-number = EntityUid must be a number.
-shell-could-not-find-entity = Could not find entity {$entity}
-shell-could-not-find-entity-with-uid = Could not find entity with uid {$uid}
-shell-entity-with-uid-lacks-component = Entity with uid {$uid} doesn't have {INDEFINITE($componentName)} {$componentName} component
-shell-invalid-color-hex = Invalid color hex!
-shell-target-player-does-not-exist = Target player does not exist!
-shell-target-entity-does-not-have-message = Target entity does not have {INDEFINITE($missing)} {$missing}!
-shell-timespan-minutes-must-be-correct = {$span} is not a valid minutes timespan.
-shell-argument-must-be-prototype = Argument {$index} must be a {LOC($prototypeName)}!
-shell-argument-number-must-be-between = Argument {$index} must be a number between {$lower} and {$upper}!
-shell-argument-station-id-invalid = Argument {$index} must be a valid station id!
-shell-argument-map-id-invalid = Argument {$index} must be a valid map id!
-shell-argument-number-invalid = Argument {$index} must be a valid number!
+shell-entity-is-not-mob = 対象エンティティはモブではない！
+shell-invalid-entity-id = エンティティIDが無効です。
+shell-invalid-grid-id = 無効なグリッドID。
+shell-invalid-map-id = 無効なマップIDです。
+shell-invalid-entity-uid = {$uid}は有効なエンティティIDではありません。
+shell-invalid-bool = 無効なブール値です。
+shell-entity-uid-must-be-number = EntityUidは数値でなければなりません。
+shell-could-not-find-entity = エンティティ {$entity} が見つかりません。
+shell-could-not-find-entity-with-uid = uid {$uid}を持つエンティティが見つかりません。
+shell-entity-with-uid-lacks-component = uid {$uid}を持つエンティティは{INDEFINITE($componentName)} {$componentName}コンポーネントを持っていません。
+shell-invalid-color-hex = 無効なカラー16進数です！
+shell-target-player-does-not-exist = 対象の選手が存在しません！
+shell-target-entity-does-not-have-message = 対象エンティティは{INDEFINITE($missing)} {$missing}を持っていません！
+shell-timespan-minutes-must-be-correct = {$span}は有効な分タイムスパンではありません。
+shell-argument-must-be-prototype = 引数{$index}は{LOC($prototypeName)}でなければなりません！
+shell-argument-number-must-be-between = 引数{$index}は{$lower}と{$upper}の間の数値でなければなりません！
+shell-argument-station-id-invalid = 引数 {$index} は有効なステーションIDでなければなりません！
+shell-argument-map-id-invalid = 引数 {$index} は有効なマップIDでなければなりません！
+shell-argument-number-invalid = 引数{$index}は有効な数字でなければなりません！
 
 # Hints
 shell-argument-username-hint = <username>

@@ -1,9 +1,9 @@
 ## IdCardComponent
 
-access-id-card-component-owner-name-job-title-text = ID card{$jobSuffix}
-access-id-card-component-owner-full-name-job-title-text = {$fullName}'s ID card{$jobSuffix}
-access-id-card-component-default = ID card
+access-id-card-component-owner-name-job-title-text = IDカード{$jobSuffix}。
+access-id-card-component-owner-full-name-job-title-text = {$fullName}のIDカード{$jobSuffix}。
+access-id-card-component-default = IDカード
 
-id-card-component-microwave-burnt = {$id}'s circuits pop loudly!
-id-card-component-microwave-bricked = {$id}'s circuits sizzle!
-id-card-component-microwave-safe = {$id}'s circuits make a weird noise.
+id-card-component-microwave-burnt = {$id}の回路が爆発しました！
+id-card-component-microwave-bricked = {$id}の回路が焼ける！
+id-card-component-microwave-safe = {$id}の回路がビープ音を立てる。

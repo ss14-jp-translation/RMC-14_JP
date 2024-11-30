@@ -1,9 +1,9 @@
-The guidebook in game will be updated with new information as development continues! It's recommended to read that instead.
+ロールプレイが初めての方、ICとOOCに不慣れな方はこの先をお読みください。そうでない方は次のセクションに進んでください。
 
-If you’re new to roleplaying or are unfamiliar with IC and OOC please read on. If not, skip to the next section.
+SS14は基本的にロールプレイングゲームで、ゲームに参加する前にロビーでカスタマイズできるキャラクターを通して、ステーションで役割を演じることになる。ゲームに参加する前に、ロビーで自分のキャラクターをカスタマイズすることができます。自分のキャラクターを演じてラウンドしているときは、IC（In Character）です。キャラクターの中にいるときは、以前のラウンドや基本的に外の世界の知識は忘れ、ステーションのクルーの一員であるかのようにプレイします。
 
-RMC-14 is at its core a roleplaying game - You play a role through your character which you can customise from the lobby prior to joining the game. You can select the roles or jobs your character plays via the customisation menu too. When you’re in a round playing your character, you are IC or In Character. When you’re in character you forget any knowledge of previous rounds or essentially of the outside world and you play as if you’re a character in the game.
+従って、OOC（Out of Character）とは、ゲーム世界の外でする会話のことです。例えば、OOCチャット、ディスコード、友人との会話などです。キャラクター外のOOCチャットで、現在のラウンドやIC（キャラクター内）のことについて話してはいけません。同様に、OOCで見たり読んだりしたものは、ゲーム内であなたのキャラクターが使用することはできません。例えば、ディスコードで誰かが裏切り者を名指ししたり、特定の場所で死にかけているから助けに行くように言われたりした場合です。これはメタゲームとして知られており、発見された場合はBANされます。
 
-Therefore, OOC or Out of Character is any conversations you have outside of the game world e.g. in the OOC chat, on discord or with your friends. You shouldn’t discuss the current round or anything that’s IC (in character) in out of character OOC chats. Likewise anything you see or read in OOC cannot be used by your character in game.
+もしゲーム中のプレイヤーがメタゲームをしていると疑われる場合（例えば、あなたが裏切り者で、あなたが敵対するようなことを何もしていないのに、相手が近づいてきてあなたを殺すなど）、ahelpかDiscordで報告してください。
 
-To summarise, when you’re in game, don’t discuss the round anywhere else until the round is over and don’t share information about the round in OOC such as if you’re dying, where you, etc.
+要約すると、ゲームに参加しているときは、ラウンドが終わるまで他の場所でそのラウンドについて議論しないこと、また、OOCでそのラウンドに関する情報（死にそうなのか、どこにいるのか等）を共有しないことです。

@@ -50,7 +50,7 @@ chatsan-word-18 = omw
 chatsan-replacement-18 = on my way
 
 chatsan-word-19 = nvm
-chatsan-replacement-19 = nevermind
+chatsan-replacement-19 = ネバーマインド
 
 chatsan-word-20 = imo
 chatsan-replacement-20 = in my opinion
@@ -87,9 +87,8 @@ chatsan-replacement-31 = shut the fuck up
 chatsan-word-32 = gtg
 chatsan-replacement-32 = got to go
 
-#RMC14: Disabled for grenade launcher
-#chatsan-word-33 = gl
-#chatsan-replacement-33 = good luck
+chatsan-word-33 = gl
+chatsan-replacement-33 = good luck
 
 chatsan-word-34 = hbu
 chatsan-replacement-34 = how about you
@@ -104,7 +103,7 @@ chatsan-word-37 = wdym
 chatsan-replacement-37 = what do you mean
 
 chatsan-word-38 = mf
-chatsan-replacement-38 = motherfucker
+chatsan-replacement-38 = マザーファッカー
 
 chatsan-word-39 = etc
 chatsan-word-40 = etc.

@@ -1,10 +1,10 @@
 ### EscapeMenu.xaml
 
-ui-escape-title = Game Menu
-ui-escape-options = Options
-ui-escape-rules = Rules
-ui-escape-guidebook = Guidebook
-ui-escape-wiki = Wiki
-ui-escape-disconnect = Disconnect
-ui-escape-quit = Quit
+ui-escape-title = ゲームメニュー
+ui-escape-options = オプション
+ui-escape-rules = ルール
+ui-escape-guidebook = ガイドブック
+ui-escape-wiki = ウィキ
+ui-escape-disconnect = 切断
+ui-escape-quit = 終了
 

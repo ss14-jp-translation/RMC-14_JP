@@ -1,23 +1,17 @@
-lobby-state-paused = Paused
-lobby-state-soon = Round starting soon
-lobby-state-right-now-question = Right Now?
-lobby-state-right-now-confirmation = Right Now
-lobby-state-round-start-countdown-text = Round starts In: {$timeLeft}
-lobby-state-ready-button-join-state = Join
-lobby-state-ready-button-ready-up-state = Ready Up
-lobby-state-player-status-not-ready = Not Ready
-lobby-state-player-status-ready = Ready
-lobby-state-player-status-observer = Observer
-lobby-state-player-status-round-not-started = The round hasn't started yet
+lobby-state-paused = 一時停止
+lobby-state-soon = もうすぐラウンドが始まる
+lobby-state-right-now-question = 今すぐ？
+lobby-state-right-now-confirmation = 今すぐ確認する
+lobby-state-round-start-countdown-text = {$timeLeft}にラウンド開始
+lobby-state-ready-button-join-state = 参加する
+lobby-state-ready-button-ready-up-state = 準備完了
+lobby-state-player-status-not-ready = 準備完了ではない
+lobby-state-player-status-ready = 準備完了
+lobby-state-player-status-observer = オブザーバー
+lobby-state-player-status-round-not-started = まだラウンドが始まっていない。
 lobby-state-player-status-round-time =
-    The round time is: {$hours} {$hours ->
-    [1]hour
-    *[other]hours
-    } and {$minutes} {$minutes ->
-    [1]minute
-    *[other]minutes
-    }
-lobby-state-song-text = Playing: [color=white]{$songTitle}[/color] by [color=white]{$songArtist}[/color]
-lobby-state-song-no-song-text = No lobby song playing.
-lobby-state-song-unknown-title = [color=dimgray]Unknown title[/color]
-lobby-state-song-unknown-artist = [color=dimgray]Unknown artist[/color]
+    所要時間は{$hours}時間{$minutes}分
+lobby-state-song-text = 演奏中：[color=white]{$songArtist}[/color]の[color=white]「{$songTitle}」[/color]
+lobby-state-song-no-song-text = ロビーの曲は流れていない。
+lobby-state-song-unknown-title = [color=dimgray]タイトル不明[/color]
+lobby-state-song-unknown-artist = [color=dimgray]アーティスト不明[/color]

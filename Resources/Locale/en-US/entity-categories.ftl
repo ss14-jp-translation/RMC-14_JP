@@ -1,3 +1,3 @@
-entity-category-name-actions = Actions
-entity-category-name-game-rules = Game Rules
-entity-category-name-objectives = Objectives
+entity-category-name-actions = 動作
+entity-category-name-game-rules = ゲームのルール
+entity-category-name-objectives = 目的

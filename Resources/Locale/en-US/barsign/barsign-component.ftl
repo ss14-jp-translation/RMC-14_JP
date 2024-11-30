@@ -1,20 +1,20 @@
-barsign-component-name = bar sign
-barsign-ui-menu = Bar Sign Configuration
-barsign-ui-set-label = Set Sign:
+barsign-component-name = バーサイン
+barsign-ui-menu = バーサインの設定
+barsign-ui-set-label = バーサインを設定する：
 
 # Bar signs prototypes
 
 ## The Harmbaton
 barsign-prototype-name-harmbaton = The Harmbaton
-barsign-prototype-description-harmbaton = A great dining experience for both security members and passengers.
+barsign-prototype-description-harmbaton = 保安要員にも乗客にも素晴らしいダイニング体験。
 
 ## The Singulo
 barsign-prototype-name-singulo = The Singulo
-barsign-prototype-description-singulo = Where people go that'd rather not be called by their name.
+barsign-prototype-description-singulo = 名前を呼ばれたくない人が行くところ。
 
 ## The Drunk Carp
 barsign-prototype-name-drunk-carp = The Drunk Carp
-barsign-prototype-description-drunk-carp = Don't drink and swim.
+barsign-prototype-description-drunk-carp = 飲んで泳いではいけない。
 
 ## Officer Beersky
 barsign-prototype-name-officer-beersky = Officer Beersky's
@@ -22,23 +22,23 @@ barsign-prototype-description-officer-beersky = Man eat a dong, these drinks are
 
 ## The Outer Spess
 barsign-prototype-name-outer-spess = The Outer Spess
-barsign-prototype-description-outer-spess = This bar isn't actually located in outer space.
+barsign-prototype-description-outer-spess = このバーは実際には宇宙にはない。
 
 ## The Coderbus
 barsign-prototype-name-coderbus = The Coderbus
-barsign-prototype-description-coderbus = A very controversial bar known for its wide variety of constantly-changing drinks.
+barsign-prototype-description-coderbus = 常に変化する多種多様な飲み物で知られる非常に物議を醸すバー。
 
 ## Robusta Cafe
 barsign-prototype-name-robusta-cafe = The Robusta Cafe
-barsign-prototype-description-robusta-cafe = Holder of the 'Most Lethal Barfights' record 5 years uncontested.
+barsign-prototype-description-robusta-cafe = 「最多殺傷バーファイト」記録保持者、5年間異議なし。
 
 ## Emergency Rum Party
 barsign-prototype-name-emergency-rum-party = The Emergency Rum Party
-barsign-prototype-description-emergency-rum-party = Recently relicensed after a long closure.
+barsign-prototype-description-emergency-rum-party = 長い閉店の後、最近再ライセンスされた。
 
 ## The Combo Cafe
 barsign-prototype-name-combo-cafe = The Combo Cafe
-barsign-prototype-description-combo-cafe = Renowned system-wide for their utterly uncreative drink combinations.
+barsign-prototype-description-combo-cafe = 全く創造性のない飲み物の組み合わせでシステム全体で有名。
 
 ## The Ale Nath
 barsign-prototype-name-ale-nath = The Ale' Nath
@@ -46,11 +46,11 @@ barsign-prototype-description-ale-nath = All right, buddy. I think you've had EI
 
 ## The Net
 barsign-prototype-name-the-net = The Net
-barsign-prototype-description-the-net = You just seem to get caught up in it for hours.
+barsign-prototype-description-the-net = ネットに何時間も夢中になってしまう。
 
 ## Maid Cafe
 barsign-prototype-name-maid-cafe = Maid Cafe
-barsign-prototype-description-maid-cafe = Welcome back, master!
+barsign-prototype-description-maid-cafe = お帰りなさいませ、ご主人様！
 
 ## Maltese Falcon
 barsign-prototype-name-maltese-falcon = Maltese Falcon
@@ -58,7 +58,7 @@ barsign-prototype-description-maltese-falcon = Play it again, sam.
 
 ## The Sun
 barsign-prototype-name-the-sun = The Sun
-barsign-prototype-description-the-sun = Ironically bright for such a shady bar.
+barsign-prototype-description-the-sun = 日陰のバーなのに皮肉にも明るい。
 
 ## The Birdcage
 barsign-prototype-name-the-birdcage = The Birdcage
@@ -82,22 +82,22 @@ barsign-prototype-description-the-lightbulb = A cafe popular among moths and mof
 
 ## The Loose Goose
 barsign-prototype-name-goose = The Loose Goose
-barsign-prototype-description-goose = Drink till you puke and/or break the laws of reality!
+barsign-prototype-description-goose = 吐くまで飲むか、現実の法則を破る！
 
 ## The Engine Change
 barsign-prototype-name-enginechange = The Engine Change
-barsign-prototype-description-enginechange = Still waiting.
+barsign-prototype-description-enginechange = まだ待っている。
 
 ## 4 The Emprah
 barsign-prototype-name-emprah = 4 The Emprah
-barsign-prototype-description-emprah = Enjoyed by fanatics, heretics, and brain-damaged patrons alike.
+barsign-prototype-description-emprah = 狂信者、異端者、そして脳を損傷した常連客によって楽しまれている。
 
 ## Spacebucks
 barsign-prototype-name-spacebucks = Spacebucks
 barsign-prototype-description-spacebucks = You can't get away from them, even in space, and even after we started calling them 'spesos' instead.
 
 ## EmpBarSign
-barsign-prototype-description-empbarsign = Something has gone very wrong.
+barsign-prototype-description-empbarsign = 何かが非常に間違っている。
 
 ## SignOff
-barsign-prototype-description-sign-off = This sign doesn't seem to be on.
+barsign-prototype-description-sign-off = このサインは点灯していないようだ。

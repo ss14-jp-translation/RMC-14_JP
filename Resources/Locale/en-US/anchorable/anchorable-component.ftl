@@ -1,3 +1,3 @@
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = 錨された
+anchorable-unanchored = 錨されたない
+anchorable-occupied = タイル占有

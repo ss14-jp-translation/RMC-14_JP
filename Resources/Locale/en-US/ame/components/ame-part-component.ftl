@@ -1,2 +1,2 @@
-ame-part-component-interact-using-no-hands = You have no hands.
-ame-part-component-shielding-already-present = Shielding is already there!
+ame-part-component-interact-using-no-hands = 手がありません。
+ame-part-component-shielding-already-present = シールドは既にあります!

@@ -4,14 +4,14 @@ generic-not-available-shorthand = N/A
 generic-article-a = a
 generic-article-an = an
 
-generic-unknown = unknown
-generic-unknown-title = Unknown
-generic-error = error
-generic-invalid = invalid
+generic-unknown = 不明
+generic-unknown-title = 不明
+generic-error = 誤り
+generic-invalid = 無効
 
-generic-hours = hours
-generic-minutes = minutes
+generic-hours = 時間
+generic-minutes = 分
 
 generic-playtime-title = Playtime
 
-generic-confirm = Confirm
+generic-confirm = 確認

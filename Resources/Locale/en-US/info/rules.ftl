@@ -1,9 +1,9 @@
 ﻿# Rules
 
-ui-rules-header = RMC14 Official Server Rules
-ui-rules-header-rp = RMC14 Roleplay Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules
-ui-rules-wait = The accept button will be enabled after {$time} seconds.
+ui-rules-header = 田島稲のSS14サーバールール
+ui-rules-header-rp = 田島稲のSS14サーバーRPルール
+ui-rules-accept = ルールを読み、従うことに同意します
+ui-rules-wait = アクセプトボタンは{$time}秒後に有効になります。
 
-ui-rules-button-home = Home
-ui-rules-button-back = Back
+ui-rules-button-home = ホーム
+ui-rules-button-back = 戻る

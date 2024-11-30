@@ -1,10 +1,10 @@
-voice-mask-default-name-override = Unknown
+voice-mask-default-name-override = 不明
 
-voice-mask-name-change-window = Voice Mask Name Change
-voice-mask-name-change-info = Type in the name you want to mimic.
-voice-mask-name-change-speech-style = Speech style
-voice-mask-name-change-set = Set name
-voice-mask-name-change-set-description = Change the name others hear to something else.
+voice-mask-name-change-window = ボイスマスク名の変更
+voice-mask-name-change-info = マネしたい名前を入力してください。
+voice-mask-name-change-speech-style = スピーチのスタイル
+voice-mask-name-change-set = 名前の設定
+voice-mask-name-change-set-description = 他の人に聞こえる名前を別のものに変更する。
 
-voice-mask-popup-success = Name set successfully.
-voice-mask-popup-failure = Name could not be set.
+voice-mask-popup-success = 名前の設定に成功しました。
+voice-mask-popup-failure = 名前を設定できませんでした。

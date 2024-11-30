@@ -1,25 +1,25 @@
-pai-system-pai-installed = A pAI is installed.
-pai-system-off = No pAI is installed.
-pai-system-still-searching = Still searching for a pAI.
-pai-system-searching = Now searching for a pAI...
+pai-system-pai-installed = pAIがインストールされている。
+pai-system-off = pAIがインストールされていない。
+pai-system-still-searching = まだpAIを探しています。
+pai-system-searching = pAIを検索中...
 
-pai-system-role-name = personal ai
-pai-system-role-description = Be someone's electronic pal!
-                              (Memories *not* included.)
-pai-system-role-name-syndicate = Syndicate personal ai
-pai-system-role-description-syndicate = Be someone's Syndicate pal!
-                                        (Memories *not* included.)
-pai-system-role-name-potato = potato artificial intelligence
-pai-system-role-description-potato = It's a toy for children. And now you live in it.
+pai-system-role-name = パーソナルAI
+pai-system-role-description = 誰かの電子友達になる！
+                              (思い出は含まれません)
+pai-system-role-name-syndicate = 個人のaiをシンジケートする。
+pai-system-role-description-syndicate = 誰かのシンジケートの仲間になる！
+                                        (思い出は*含まれません)
+pai-system-role-name-potato = ポテト人工知能
+pai-system-role-description-potato = 子供のおもちゃです。そして今、あなたはその中に住んでいる。
 
-pai-system-wipe-device-verb-text = Remove pAI
-pai-system-wiped-device = The pAI was wiped from the device.
+pai-system-wipe-device-verb-text = pAIを削除する。
+pai-system-wiped-device = pAIはデバイスから消去されました。
 
-pai-system-stop-searching-verb-text = Stop searching
-pai-system-stopped-searching = The device stopped searching for a pAI.
+pai-system-stop-searching-verb-text = 検索を停止する
+pai-system-stopped-searching = デバイスがpAIの検索を停止しました。
 
-pai-system-pai-name = { CAPITALIZE(THE($owner)) }'s pAI
-pai-system-pai-name-raw = {$name}'s pAI
+pai-system-pai-name = {$owner}のpAI
+pai-system-pai-name-raw = {$name} の pAI
 
-pai-system-brick-popup = The pAI's circuits loudly pop and fizzle out!
-pai-system-scramble-popup = The pAI's circuits are overloaded with electricity!
+pai-system-brick-popup = pAIの回路が大音量で破裂し、消えます！
+pai-system-scramble-popup = pAIの回路に電気がかかりすぎています！

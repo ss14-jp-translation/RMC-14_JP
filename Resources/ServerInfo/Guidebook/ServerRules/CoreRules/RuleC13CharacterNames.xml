@@ -1,34 +1,35 @@
 <Document>
-  # Core Rule 13 - Use realistic character names, and do not use names of famous people
-  - No names of people or characters from the real world
-  - No titles/honorifics
-  - Must follow all other rules (no slurs/sexual names/etc)
-  - Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names cannot be used as names. See examples below.
-  - Admin rulings on IC names are final and disputes should be done through the forums, not by refusing to comply with an admin
+  # メインルール13 - 現実的なキャラクターの名前を使い、有名人の名前は使わない
+  - 実在の人物や登場人物の名前を使わないこと
+  - 称号／敬称を使用しない
+  - 中傷／性的／あらゆるルール違反となる名前を使用しないこと。
+  - ユーザーネーム、オブジェクト、ランダムなキャラクター、非常に 「労力の少ない 」名前、「メタ 」ネーム、その他ありえない名前を名前として使用することはできません。以下の例を参照してください。
+  - IC名に関する管理者の裁定は最終的なものであり、紛争はフォーラムを通じて行われるべきです。
+  - 読みやすさを考慮し、名前はカタカナで入力することを推奨します。
 
   Clowns and mimes are exempt from the prohibition on titles/honorifics, and have loosened restrictions on low effort and implausible names.
 
-  ## Clarification on "Meta" Names
-  Meta names are ones which attempt to take advantage of some game mechanic or game design choice. "Urist McHands" is a meta name because it is the default name used for admin spawned humans. "Operator Whiskey" is a meta name because it follows the naming pattern of nuclear operatives. This rule is not intended to prevent things like nuclear operatives using a fake ID with names that appear to be nuclear operative names if they decide that they want to do that.
+  ## 「メタ」名称の明確化
+  メタネームとは、ゲームメカニクスやゲームデザインの選択を利用しようとするものである。「ツバヲ・カケロ」がメタ名であるのは、管理者が産み落とした人間に使われるデフォルト名だからである。「オペレーター・ウイスキー」は核工作員の命名パターンに従っているため、メタ名である。この規則は、核工作員が核工作員の名前に見える偽のIDを使うようなことを、彼らがそうしたいと決めた場合に防ぐことを意図したものではない。
 
-  ## Conventions and Examples
-  [color=#994444]Bad[/color] cannot be used by any species. [color=#449944]Acceptable[/color] names can be used by any species.
+  ## 慣例と例
+  [color=#994444]悪い[/color] はどの種族でも使用できない。[color=#449944]受け入れ可能な[/color] 名前はどの種族でも使用できる。
 
-  Humans typically use the Firstname Lastname convention.
-  - [color=#449944]Acceptable:[/color] Tom Fisher
-  - [color=#449944]Acceptable:[/color] Spacey Chapman
-  - [color=#994444]Bad:[/color] Dr. Tom Fisher
-  - [color=#994444]Bad:[/color] Walter White
-  - [color=#994444]Bad:[/color] George Washington
-  - [color=#994444]Bad:[/color] Joe Biden
-  - [color=#994444]Bad:[/color] Ben Dover
-  - [color=#994444]Bad:[/color] Mike Hunt
+  Humans typically use the Lastname Firstname convention.
+  - [color=#449944]Acceptable:[/color] マスダ・ノドカ
+  - [color=#449944]Acceptable:[/color] フィッシャー・トム
+  - [color=#449944]Acceptable:[/color] チャップマン・スペイシー
+  - [color=#994444]Bad:[/color] フィッシャー・トム博士
+  - [color=#994444]Bad:[/color] ネイキッド・スネーク
+  - [color=#994444]Bad:[/color] ナルホドウ・リュウイチ
+  - [color=#994444]Bad:[/color] ツバヲ・カケロ
+  - [color=#994444]Bad:[/color] フーバー・ダム
 
   Dwarfs typically use the human convention in a viking theme.
   - [color=#449944]Acceptable:[/color] Ingrid Firebreath
   - [color=#449944]Acceptable:[/color] Erik Lightningclaw
 
-  Lizards typically use the Verb-article-Noun convention.
+  Lizards typically use the Noun-article-Verb convention.
   - [color=#449944]Acceptable:[/color] Cleans-the-Airlocks
   - [color=#994444]Bad:[/color] Bans-the-Admins
 

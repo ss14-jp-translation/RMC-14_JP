@@ -1,13 +1,13 @@
-main-menu-invalid-username-with-reason = Invalid username:
+main-menu-invalid-username-with-reason = 無効なユーザー名：
                                          {$invalidReason}
-main-menu-invalid-username = Invalid username
-main-menu-failed-to-connect = Failed to connect:
+main-menu-invalid-username = 無効なユーザー名
+main-menu-failed-to-connect = 接続に失敗しました:
                               {$reason}
-main-menu-username-label = Username:
-main-menu-username-text = Username
-main-menu-address-label = Server Address:
-main-menu-join-public-server-button = Join Public Server
-main-menu-join-public-server-button-tooltip = Cannot connect to public server with a debug build.
-main-menu-direct-connect-button = Direct Connect
-main-menu-options-button = Options
-main-menu-quit-button = Quit
+main-menu-username-label = ユーザー名：
+main-menu-username-text = ユーザー名
+main-menu-address-label = サーバーアドレス：
+main-menu-join-public-server-button = パブリックサーバーに参加
+main-menu-join-public-server-button-tooltip = デバッグ ビルドではパブリック サーバーに接続できません。
+main-menu-direct-connect-button = 直接接続
+main-menu-options-button = 設定
+main-menu-quit-button = 終了

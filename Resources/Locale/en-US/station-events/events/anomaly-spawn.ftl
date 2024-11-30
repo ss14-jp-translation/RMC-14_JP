@@ -1,4 +1,4 @@
-anomaly-spawn-event-announcement = Our readings have detected a dangerous interspacial anomaly. Please inform the research team about { $sighting }.
+anomaly-spawn-event-announcement = 危険な空間異常が検出されました。{ $sighting }について研究チームに知らせてください。
 
 anomaly-spawn-sighting-1 = low pulsating sounds heard throughout the station
 anomaly-spawn-sighting-2 = strange sources of light

@@ -1,8 +1,8 @@
-Welcome to Space Station 14! You have just started your shift aboard a Nanotrasen space station and along with your crewmates should cooperate, perform your job role to the best of your ability and have fun (not at the expense of others hopefully).
+Space Station 14へようこそ！あなたはNanotrasen宇宙ステーションでのシフトを開始したばかりです。クルー仲間と共に協力し、自分の能力を最大限に発揮し、楽しんでください（できれば他の人を犠牲にしないでください）。
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, your colleagues on shift in person or over radio or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+サーバールール(F1)をよく理解し、不明な点があればこのガイド、シフト中の同僚に直接、または無線やディスコードで相談してください。また、Escキー -> admin helpを押し、オンラインの管理者にメッセージを入力することで、管理者に助けを求めることもできます（ahelp）。特に、誰かがルールを破っているのを目撃した場合は、この方法を使ってください。
 
-To reiterate, you are all a crew of people who work together (even the clown) and you should not be harming each other unless you have an extremely good reason (self defence) and even then, call security over radio, stun and detain, do not commit murder as a non antagonist (see antagonist further down).
+繰り返しになりますが、皆さんは（道化師でさえも）共に働くクルーであり、極めて正当な理由（自己防衛）がない限り、お互いに危害を加えてはいけません。その場合でも、無線で警備員を呼び、気絶させて拘束し、非敵対者として殺人を犯してはいけません（さらに下の敵対者を参照）。
 
 
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+インテントの代わりにコンバットモードがある。そのキーバインドについては下のコントロールをチェック。オフの状態では誰も攻撃できないので、自分のバールで自分を殴るのはもうやめよう。
