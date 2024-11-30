@@ -11,18 +11,18 @@
 
 - type: entity
   id: ActionScream
-  name: Scream
-  description: AAAAAAAAAAAAAAAAAAAAAAAAA
+  name: 悲鳴
+  description: <(>口<)>
   components:
   - type: InstantAction
-    useDelay: 20
+    useDelay: 10
     icon: Interface/Actions/scream.png
     event: !type:ScreamActionEvent
     checkCanInteract: false
 
 - type: entity
   id: ActionTurnUndead
-  name: Turn Undead
+  name: ゾンビになる
   description: Succumb to your infection and become a zombie.
   components:
   - type: InstantAction
@@ -33,8 +33,8 @@
 
 - type: entity
   id: ActionToggleLight
-  name: Toggle Light
-  description: Turn the light on and off.
+  name: 電気
+  description: 電気をつけたり消したりする。
   components:
   - type: InstantAction
     useDelay: 1
@@ -174,8 +174,8 @@
 
 - type: entity
   id: ActionCombatModeToggle
-  name: "[color=red]Combat Mode[/color]"
-  description: Enter combat mode
+  name: "[color=red]戦闘モード[/color]"
+  description: 戦闘モードを起動する
   components:
   - type: InstantAction
     checkCanInteract: false
@@ -188,8 +188,8 @@
 - type: entity
   id: ActionCombatModeToggleOff
   parent: ActionCombatModeToggle
-  name: "[color=red]Combat Mode[/color]"
-  description: Enter combat mode
+  name: "[color=red]戦闘モード[/color]"
+  description: 戦闘モードを起動する
   components:
   - type: InstantAction
     enabled: false
