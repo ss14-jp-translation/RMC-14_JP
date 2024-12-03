@@ -2,11 +2,11 @@
 server_name = "alamo"
 
 [game]
-desc = "Inspired by CMSS13 from Byond! Join and play as a marine, responding to a mysterious distress signal, or a xenonid, building out your hive and defending it from the marines."
-hostname = "[EN][MRP] Rouny's Marine Corps Alamo [US East]"
+desc = "海兵隊員として謎の救難信号に対応したり、ゼノノイドとして自分の巣を作り上げ、海兵隊員から巣を守ったりしよう。"
+hostname = "[JP][MRP]田島海兵隊14"
 
 [hub]
-tags = "lang:en,region:am_n_e,rp:med"
+tags = "lang:ja,region:as_se,rp:med"
 
 [loki]
 name = "alamo"

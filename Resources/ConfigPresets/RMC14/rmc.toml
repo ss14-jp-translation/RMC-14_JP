@@ -5,7 +5,7 @@ server_ban_erase_player = true
 new_player_threshold = 600
 
 [adminlogs]
-server_name = "rouny"
+server_name = "tajirmc"
 
 [atmos]
 space_wind = false
@@ -35,7 +35,7 @@ advertise = true
 
 # Comma-separated list of tags, useful for categorizing your server.
 # See https://docs.spacestation14.io/hosts/hub-rules for more details on this when it becomes relevant.
-tags = "lang:en,region:am_n_e,rp:med"
+tags = "lang:ja,region:as_se,rp:med"
 
 [ic]
 flavor_text = true
@@ -43,11 +43,11 @@ enable_suicide = false
 
 [infolinks]
 #appeal = "https://appeal.rouny-ss14.com"
-bug_report = "https://github.com/RMC-14/RMC-14/issues/new?assignees=&labels=&projects=&template=issue_report.md&title="
-discord = "https://discord.gg/rouny"
+bug_report = "https://github.com/ss14-jp-translation/RMC-14_JP/issues/new?assignees=&labels=&projects=&template=issue_report.md&title="
+discord = "https://discord.gg/teSumU7YrT"
 #forum = "https://forum.rouny-ss14.com"
-github = "https://github.com/RMC-14/RMC-14"
-patreon = "https://www.patreon.com/RMC14"
+github = "https://github.com/ss14-jp-translation/RMC-14_JP"
+#patreon = "https://www.patreon.com/RMC14"
 #website = ""
 #wiki = ""
 
