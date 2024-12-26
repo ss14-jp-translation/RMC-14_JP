@@ -156,8 +156,8 @@
       entries:
       - id: RMCPouchAutoinjector
         amount: 1
-      #- id: RMCPouchMedkit
-      #  amount: 2
+      - id: RMCPouchMedkit
+        amount: 2
       - id: RMCPouchFirstAidInjectors
         amount: 5
       - id: RMCPouchFirstResponder
@@ -483,9 +483,9 @@
         amount: 15
       - id: RMCArmorM3MediumSmooth
         amount: 15
-      - id: CMArmorM3Heavy
+      - id: RMCArmorM3HeavyPadded
         amount: 10
-      - id: CMArmorM3Light
+      - id: RMCArmorM3LightPadded
         amount: 10
     - name: Gloves
       entries:
